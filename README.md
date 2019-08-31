@@ -30,3 +30,7 @@ Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi bawaan 
 
 ## Jawaban Soal 5
 Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi **strpos()** untuk mencari kata yang ada pada array (dari soal 5) dari kata yang diinput user. Fungsi ini juga digabungkan dengan logika **if()** untuk mengkondisikan kata yang dicari, lalu dimasukkan ke dalam array. Array ini akan dipecah menggunakan fungsi **implode()** yang digunakan untuk memisahkan setiap element yang telah diproses tadi dengan tanda ",".
+
+
+## Jawaban Soal 6
+Di sini saya menggunakan PHP, HTML, CSS, JavaScript, Bootstrap, dan jQuery. Berikut screenshot demo aplikasinya:
