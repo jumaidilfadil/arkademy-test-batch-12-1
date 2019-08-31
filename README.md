@@ -34,3 +34,15 @@ Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi **strpo
 
 ## Jawaban Soal 6
 Di sini saya menggunakan PHP, HTML, CSS, JavaScript, Bootstrap, dan jQuery. Berikut screenshot demo aplikasinya:
+
+**Home:**
+![Screenshot_Home](https://github.com/jumaidilfadil/arkademy-test-batch-12-1/blob/master/jawaban6/screenshot/home.png)
+
+**Add:**
+![Screenshot_Add](https://github.com/jumaidilfadil/arkademy-test-batch-12-1/blob/master/jawaban6/screenshot/add.png)
+
+**Delete:**
+![Screenshot_Delete](https://github.com/jumaidilfadil/arkademy-test-batch-12-1/blob/master/jawaban6/screenshot/delete.png)
+
+**Edit:**
+![Screenshot_Edit](https://github.com/jumaidilfadil/arkademy-test-batch-12-1/blob/master/jawaban6/screenshot/edit.png)
