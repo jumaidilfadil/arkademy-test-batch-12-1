@@ -21,7 +21,7 @@ Untuk menjalankannya, cukup jalankan file **jawaban2.php**. Untuk mengubah usern
 
 
 ## Jawaban Soal 3
-Di sini, saya menggunakan bahasa pemrograman PHP. Terdapat 2 pengulangan. Pengulangan pertama, **for()** dibuat untuk membuat tinggi segitiga siku-siku. Lalu, pengulangan ke dua, **while()** digunakan untuk membuat alas. Pada pengulangan ke dua, di sana dibuat proses untuk menyeleksi semua angka yang dimulai dari angka 2 yang dapat dijadikan angka prima. Perhitungannnya dengan cara mencari angka itu apakah hasil modul (n % m) dengan n adalah angka yang sedang dicari, dan m adalah batas perhitungan modul (%) yang dimulai dari 1 sampai nilai n. Jika hasil modul (%) nya kurang atau sama dengan 2, maka angka itu merupakan angka prima.
+Di sini, saya menggunakan bahasa pemrograman PHP. Terdapat 2 pengulangan. Pengulangan pertama, **for()** dibuat untuk membuat tinggi segitiga siku-siku. Lalu, pengulangan ke dua, **while()** digunakan untuk membuat alas. Pada pengulangan ke dua, di sana dibuat proses untuk menyeleksi semua angka yang dimulai dari angka 2 yang dapat dijadikan angka prima. Perhitungannnya dengan cara mencari angka tersebut menggunakan hasil sisa bagi (n % m) dengan n adalah angka yang sedang dicari, dan m adalah batas perhitungan sisa bagi (%) yang dimulai dari 1 sampai nilai n. Jika hasil sisa bagi (%) nya kurang atau sama dengan 2, maka angka itu merupakan angka prima.
 
 
 ## Jawaban Soal 4
@@ -29,7 +29,7 @@ Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi bawaan 
 
 
 ## Jawaban Soal 5
-Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi **strpos()** untuk mencari kata yang ada pada array (dari soal 5) dari kata yang diinput user. Fungsi ini juga digabungkan dengan logika **if()** untuk mengkondisikan kata yang dicari, lalu dimasukkan ke dalam array. Array ini akan dipecah menggunakan fungsi **implode()** yang digunakan untuk memisahkan setiap element yang telah diproses tadi dengan tanda ",".
+Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi **strpos()** untuk mencari kata yang ada pada array (dari soal 5) dari kata yang diinput. Fungsi ini juga digabungkan dengan logika **if()** untuk mengkondisikan kata yang dicari, lalu dimasukkan ke dalam array. Array ini akan dipecah menggunakan fungsi **implode()** yang digunakan untuk memisahkan setiap element yang telah diproses tadi, dengan tanda "," sebagai pemisah.
 
 
 ## Jawaban Soal 6
