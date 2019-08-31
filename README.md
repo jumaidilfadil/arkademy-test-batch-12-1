@@ -33,7 +33,7 @@ Di sini saya menggunakan bahasa pemrograman PHP. Saya menggunakan fungsi **strpo
 
 
 ## Jawaban Soal 6
-Di sini saya menggunakan PHP, HTML, CSS, JavaScript, Bootstrap, dan jQuery. Berikut screenshot demo aplikasinya:
+Di sini saya menggunakan PHP, HTML, CSS, JavaScript, Bootstrap, dan jQuery. Untuk database-nya menggunakan MariaDB yang dibantu dengan phpMyAdmin. Berikut screenshot demo aplikasinya:
 
 **Home:**
 ![Screenshot_Home](https://github.com/jumaidilfadil/arkademy-test-batch-12-1/blob/master/jawaban6/screenshot/home.png)
